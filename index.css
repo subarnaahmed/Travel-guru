@@ -1,0 +1,272 @@
+.banner{
+    background-image: url(pexels-asadphoto-457882.jpg);
+    background-size: cover;
+    height: 600px;
+    width: 1000px;
+    margin:0 auto;
+}
+
+@media screen and (max-width:700px) {
+    
+}
+.navbar{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 10px;
+}
+.mycox{
+    width: 200px;
+    height: 300px;
+
+}
+.myicon{
+    padding: 10px;
+    
+    
+}
+
+
+.sree{
+    height: 300px;
+    width: 200px;
+
+
+}
+.royel{
+    height: 300px;
+    width: 200px;
+}
+.coxbazar{
+    display: flex;
+    gap: 8px;
+    padding:80px;
+    color: white;
+    
+}
+
+
+
+.back{
+    background-image: url(pexels-asadphoto-457882.jpg);
+    background-size: cover;
+    height: 500px;
+    width: 920px;
+    padding: 40px;
+    margin-top: 10px;
+
+}
+
+@media screen and (max-width:700px) {
+    
+}
+
+
+.bazar{
+    display: flex;
+    gap: 40px;
+    width: 400px;
+    margin: 5px;
+    margin: 0 auto;
+    padding: 30px;
+
+
+}
+
+.from{
+    display: flex;
+    gap: 60px;
+    padding: 40px;
+    
+}
+.color{
+    background-color: white;
+    width: 400px;
+    padding: 40px;
+    
+
+}
+    
+
+.mybutton{
+    margin-top: 20px;
+    
+}
+.siyan{
+    background-color: papayawhip;
+    padding: 5px;
+    
+}
+.siha{
+    background-color:papayawhip ;
+    padding: 5px;
+    
+}
+.mybook{
+    background-color: brown;
+    padding: 5px;
+}
+.mytravel{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 80px;
+}
+.my{
+    display: flex;
+    align-items: center;
+    gap: 200px;
+    padding: 20px;   
+    
+}
+.myclass{
+    width: 600px;
+    margin: 0 auto;
+    padding: 20px;
+    border: 2px solid purple;
+    margin-top: 20px;
+    
+}
+.vlue>h1{
+    border: 1px solid pink;
+    width: 300px;
+    height: 0px;
+}
+.vlue{
+    display: flex;
+    gap: 10px;
+    width: 600px;
+    margin: 5px;
+    margin: 0 auto;
+}
+.vlue2{
+    border:2px solid purple ; 
+    border-radius: 3cap;
+    width: 300px;
+     padding: 10px;
+     margin: 0 auto;
+     gap: 10px;
+     
+    
+}
+.vlue3{
+    padding-left: 60px;
+}
+
+
+ .red{ 
+    border:2px solid purple ; 
+    border-radius: 3cap;
+    width: 300px;
+     padding: 10px;
+     margin: 0 auto;
+     gap: 10px;
+     margin-top: 10px;
+
+    
+
+ }
+.red1{padding-left:60px ;
+    
+}
+
+
+ 
+
+.cheakbox{
+    background-color:red;
+    height: 10px;
+    width: 450px;
+    margin: 0 auto;
+    
+}
+.cheakbox{
+    text-align: center;
+    padding: 20px;
+}
+.loging1{text-align: center;
+    padding: 20px;
+}
+.now{
+    text-align: center;
+}
+.rules{
+    margin: 0 auto;
+    width: 400px;
+    padding: 40px;
+    border: 1px solid purple;
+    
+}
+.uli{
+    margin-top: 20px;
+    padding: 10px;
+    
+}
+.acount{
+    display: block;
+    margin: 0 auto;
+    margin-top: 15px;
+   background-color:purple;
+   padding: 10px;
+   width: 400px;
+}
+
+.mystart{
+    display: block;
+    margin: 0 auto;
+    padding: 10px;
+    background-color:purple;
+    width: 400px;
+}
+.all{
+    text-align: center;
+    padding: 20px;
+}
+.imuge3{
+    width: 220px;
+
+}
+
+
+
+.ses5{
+    display: flex;
+}
+.fulll{
+    display: grid;
+    grid-template-columns: 1fr 1fr ;
+    gap: 10px;
+    padding: 40px;
+    
+}
+.rules{
+    margin-top: 20px;
+    padding: 40px;
+}
+.ses6{
+    padding: 50px;
+}
+.men2{
+    position: relative;
+    
+}
+.icon{
+    position: absolute;
+    
+    top: 26px;
+    left: 15px;
+    
+    
+    
+    
+}
+.myicon{
+    margin: 10px;
+    padding-left: 40px;
+    padding-right: 40px;
+    
+    
+
+}
+
+
